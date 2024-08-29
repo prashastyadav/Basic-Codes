@@ -1,0 +1,32 @@
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# General files to ignore
+*.log
+*.tmp
+*.swp
+*.DS_Store
+*.idea/
+
+# OS-specific files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
