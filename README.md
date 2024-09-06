@@ -69,23 +69,6 @@ This repository aims to cover the following topics:
 •	Assertions
 •	Mocking with Mockito
 
-**Working with Maven and Gradle**
-•	Maven Basics and POM.xml
-•	Dependency Management
-•	Build Lifecycle and Plugins
-•	Introduction to Gradle
-
-**Spring Boot Basics**
-•	Introduction to Spring Boot
-•	Dependency Injection (DI)
-•	Creating RESTful APIs
-•	Connecting to Databases with Spring Data JPA
-
-**Version Control with Git**
-•	Introduction to Git and GitHub
-•	Basic Git Commands (commit, push, pull)
-•	Branching and Merging
-
 **What everywhere??!**
 •	Java Best Practices
 •	Next Steps for Learning
